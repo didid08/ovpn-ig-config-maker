@@ -6,7 +6,7 @@ System Requirements:
 
 Cara install:
 1. Download Termux di Playstore
-2. Buka termux, lalu jalankan:
+2. Buka termux, lalu jalankan:\
 `$ termux-setup-storage`\
 `$ pkg update`\
 `$ pkg install nodejs`
@@ -14,6 +14,6 @@ Cara install:
 
 Cara menjalankan:
 1. Buka Termux
-2. Lalu jalankan:
+2. Lalu jalankan:\
 `$ cd [lokasi_file_diekstrak]`\
 `$ node main.js`
