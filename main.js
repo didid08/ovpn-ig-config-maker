@@ -9,7 +9,6 @@ console.log("By: Didid")
 console.log("WA: +62 851-5671-6247\n")
 
 console.log("Catatan:")
-//console.log("- Jalankan command 'termux-setup-storage' terlebih dahulu jika belum pernah dijalankan sebelumnya")
 console.log("- Tool ini hanya support akun vpn yang dibuat di tcpvpn.com")
 console.log("- Sebelum menggunakan tool ini, harap buat akun vpn di tcpvpn.com terlebih dahulu")
 console.log("- Server yang didukung masih terbatas dan akan terus bertambah seiring pembaruan\n")
